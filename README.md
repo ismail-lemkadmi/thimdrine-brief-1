@@ -18,10 +18,10 @@ Le site présente une coopérative composée de 25 femmes, située dans la régi
 
 | Page | Description |
 |---|---|
-| Accueil (`index.html`) | Présentation de Thimdrine et des produits phares |
-| Nos produits (`produits.html`) | Catalogue des six produits artisanaux |
-| À propos (`apropos.html`) | Histoire, valeurs et chiffres clés de la coopérative |
-| Contact (`contact.html`) | Formulaire de contact et de demande de produits |
+| Accueil `index.html` | Présentation de Thimdrine et des produits phares |
+| Nos produits `produits.html` | Catalogue des six produits artisanaux |
+| À propos `apropos.html` | Histoire, valeurs et chiffres clés de la coopérative |
+| Contact `contact.html` | Formulaire de contact et de demande de produits |
 
 ## Technologies utilisées
 
@@ -51,14 +51,14 @@ L'organisation et le suivi des tâches sont réalisés avec GitHub Projects, à 
 - **In Progress** : tâches en cours.
 - **Done** : tâches terminées.
 
-**GitHub Project :** [Ajouter le lien du GitHub Project]
+
 
 ## Liens utiles
 
 - **Site web (GitHub Pages) :** https://ismail-lemkadmi.github.io/thimdrine-brief-1/
 - **Repository GitHub :** https://github.com/ismail-lemkadmi/thimdrine-brief-1
 - **Figma :** https://www.figma.com/design/nPHAVj3xEGfkeuXfowgpRA/Thimdrine---Brief-1?m=auto&t=ONaK2kbg0HCvZKZd-1
-- **GitHub Project :** [Lien à ajouter]
+- **GitHub Project :** https://github.com/users/ismail-lemkadmi/projects/1/views/1
 
 ## Structure du projet
 
@@ -79,7 +79,3 @@ thimdrine-brief-1/
 1. Cloner le repository GitHub.
 2. Ouvrir le dossier du projet dans Visual Studio Code.
 3. Ouvrir `index.html` dans un navigateur ou avec Live Server.
-
-## Auteur
-
-Projet réalisé dans le cadre du **Brief 1 — YouCode**.
