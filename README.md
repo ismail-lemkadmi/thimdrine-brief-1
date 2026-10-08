@@ -1,4 +1,4 @@
-# Thimdrine — Site vitrine d'une coopérative du Rif
+# Thimdrine  Site vitrine d'une coopérative du Rif
 
 ## Présentation du projet
 
