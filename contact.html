@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Thimdrine - Contact</title>
+</head>
+
+<body>
+<header> 
+<nav>
+    <a href="index.html">
+      <img src="images/logo.png" alt="Logo Thimdrine">
+      <span>Thimdrine</span>
+    </a>
+    
+    <ul>
+  <li><a href="index.html">Accueil</a></li>
+  <li><a href="produits.html">Nos produits</a></li>
+  <li><a href="apropos.html">À propos</a></li>
+  <li><a href="contact.html">Contact</a></li>
+    </ul>
+
+</nav>
+</header>
+
+
+<main>
+<section class="contact-hero">
+  <p>PARLONS DE VOTRE DEMANDE</p>
+  <h1>Contact</h1>
+  <p>Choisissez un produit, précisez la quantité souhaitée et envoyez votre demande.</p>
+</section>
+<form class="contact-form">
+
+  <label for="nom">nom</label>
+  <input type="text" id="nom" name="nom" placeholder="votre nom" required>
+
+  <label for="email">email</label>
+  <input type="email"  id="email" name="email" placeholder="votre email" required>
+
+  <label for="telephone">telephone</label>
+  <input type="tel" id="telephone"  name="telephone" placeholder="votre telephone" required>
+
+  <label for="produit">produit</label>
+  <select name="produit" id="produit" required>
+  <option value="">choisir un produi</option>
+  <option value="miel">Miel de thym</option>
+  <option value="Huile">Huile d'olive</option>
+  <option value="Confiture">Confiture de figue de barbarie</option>
+  <option value="Tisane">Tisane de thym du Rif</option>
+  <option value="Olives">Olives marinées aux herbes</option>
+  <option value="Figues">Figues séchées du Rif</option></select>
+
+  <label for="Quantite">Quantité</label>
+  <input type="number" id="Quantite" name="Quantite" min="1" required> 
+
+  <label for="message">message</label>
+  <textarea name="message" id="message" placeholder="votre message" rows="5"></textarea>
+
+  <p>Consentement</p>
+  <input type="checkbox" id="consentement" name="consentement" required>
+  <label for="consentement">J'accepte d'être recontacté(e) au sujet de ma demande.</label>
+  <button type="submit">Envoyer ma demande</button>
+</form> 
+
+</main>
+
+<footer>
+  <div class="footer-brand">
+    <img src="images/logo.png" alt="logo Thimdrine">
+    <span>Thimdrine</span>
+    <p>Miel de thym, huile d'olive et confiture de figue de barbarie.</p>
+  </div>
+  <div class="footer-nav">
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="produits.html">Nos produits</a></li>
+        <li><a href="apropos.html">À propos</a></li>
+        <li><a href="contact.html">Contact</a></li>
+
+
+      </ul>
+
+    </nav>
+
+  </div>
+  <div class="footer-contact">
+    <h3>Contact</h3>
+    <p>+212 700112233</p>
+    <p>contact@thimdrine.com</p>
+
+  </div>
+</footer>
+</body>
+</html>
