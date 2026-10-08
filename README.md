@@ -2,8 +2,6 @@
 
 ## Présentation du projet
 
-**Thimdrine** est un site web vitrine réalisé dans le cadre du **Brief 1 de la formation YouCode**.
-
 Le site présente une coopérative composée de 25 femmes, située dans la région du Rif marocain. Il met en valeur les produits du terroir, le savoir-faire artisanal et les valeurs de la coopérative.
 
 ## Objectifs du projet
